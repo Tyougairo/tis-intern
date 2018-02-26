@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/tiscon3/src/main/main.iml" filepath="$PROJECT_DIR$/tiscon3/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tis-intern.iml" filepath="$PROJECT_DIR$/.idea/tis-intern.iml" />
     </modules>
   </component>
 </project>
